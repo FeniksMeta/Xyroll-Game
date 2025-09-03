@@ -1,0 +1,10 @@
+{
+  "name": "external-signer",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "external-signer-service.js",
+  "dependencies": {
+    "express": "^4.19.2",
+    "xrpl": "^3.0.0"
+  }
+}
